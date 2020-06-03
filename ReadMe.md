@@ -18,7 +18,7 @@ Microsoft already provide a template engine but it does not have the following r
 ## Installation
 
 ```powershell
-Add-Package MsTeams.TemplatingEngine
+Add-Package MsTeams.TemplateEngine
 Add-Package Microsoft.Extensions.Localization
 ```
 
