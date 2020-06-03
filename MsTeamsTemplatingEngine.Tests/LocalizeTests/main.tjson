@@ -1,0 +1,4 @@
+﻿{{ tAssembly 'MsTeamsTemplatingEngine.Tests' }}
+{
+	"label": "{{ t 'TestKey' }}"
+}
